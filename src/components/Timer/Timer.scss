@@ -1,0 +1,24 @@
+
+  .stopwatch { 
+      text-align: center; 
+    }
+  .stopwatch-timer {
+    font-size: 40px;
+    font-weight: 100;
+    line-height: 20px;
+    
+    margin-right: 10px;
+
+    background-color: white;
+  }
+  
+  .btn:focus {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none;
+}
+  
+  .start-btn { 
+      color: #4bd761;
+     }
+  .stop-btn  { color: #fd3d2a }

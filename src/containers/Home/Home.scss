@@ -1,0 +1,50 @@
+@import '../../theme/variables.scss';
+
+.home {
+  dd {
+    margin-bottom: 15px;
+  }
+}
+
+.masthead {
+  background: white;
+  padding: 40px 20px;
+  color: white;
+  text-align: center;
+  .logo {
+    $size: 200px;
+    margin: auto;
+    height: $size;
+    width: $size;
+    vertical-align: middle;
+    p {
+      line-height: $size;
+      margin: 6px;
+    }
+    img {
+      width: 100%;
+      margin: auto;
+    }
+  }
+  h1 {
+    color: black;
+    font-size: 4em;
+  }
+  h2 {
+    color: #ddd;
+    font-size: 2em;
+    margin: 2px;
+  }
+  a {
+    color: #ddd;
+  }
+  p {
+    margin: 10px;
+  }
+
+}
+
+.counterContainer {
+  text-align: center;
+  margin: 20px;
+}
