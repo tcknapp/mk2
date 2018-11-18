@@ -69,7 +69,7 @@ class Login extends Component {
 
   FacebookLoginButton = ({ facebookLogin }) => (
     <button type="button" className="btn btn-primary" onClick={facebookLogin}>
-      Login with <i className="fa fa-facebook-f" />
+      {/* Login with <i className="fa fa-facebook-f" /> */}
     </button>
   );
 

@@ -13,14 +13,14 @@ import channels from './channels';
 //For mongo/mongoose
 const mongoose = require('mongoose');
 const service = require('feathers-mongoose');
-const Model = require('./hooks');
+// const Model = require('../api/models');
 mongoose.Promise = global.Promise;
 
 const mongoURI = "mongodb://localhost:27017/mknome";
-mongoose.connect(mongoURI, function(err){
-  if(err){
+mongoose.connect(mongoURI, function (err) {
+  if (err) {
     console.log(err);
-  }else{
+  } else {
     console.log('Finally connected!!!');
   }
 });

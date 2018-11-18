@@ -8,7 +8,7 @@ import config from 'config';
 @provideHooks({
   fetch: ({ store: { dispatch, getState } }) => !isInfoLoaded(getState()) ? dispatch(loadInfo()).catch(() => null) : Promise.resolve()
 })
-class Hello extends Component {
+class Dashboard extends Component {
 
   render() {
 
@@ -37,4 +37,4 @@ class Hello extends Component {
   }
 }
 
-export default Hello;
+export default Dashboard;
