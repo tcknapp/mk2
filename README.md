@@ -1,6 +1,7 @@
-# metroKnome
 
+<center>
 <img src="https://github.com/tcknapp/mk2/blob/master/Screen%20Shot%202018-11-26%20at%202.20.22%20PM.png?raw=true" width="300" height="270">
+ </center>
 
 
 ## About this app...
