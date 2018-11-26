@@ -21,6 +21,9 @@ This is a productivity app to help users stay dedicated to their musical endeavo
 * Others: 
 
     babel, docker, eslint, feathers, graphjs, scss
+    
+    
+    
 
-*This project is still in development
+**This project is still in development**
 
