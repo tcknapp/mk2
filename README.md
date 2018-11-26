@@ -14,7 +14,7 @@ This is a productivity app to help users stay dedicated to their musical endeavo
 
 ## Technologies used
 
-* MERN Stack -
+* MERN Stack-
 
     Mongo, Express, React-Redux, Node
 
