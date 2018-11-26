@@ -10,13 +10,11 @@ This is a productivity app to help users stay dedicated to their musical endeavo
 
 ## Technologies used
 
-MERN Stack -
+* MERN Stack -
+    Mongo, Express, React-Redux, Node
 
-Mongo, Express, React-Redux, Node
-
-Others: 
-
-babel, docker, eslint, feathers, graphjs, scss
+* Others: 
+    babel, docker, eslint, feathers, graphjs, scss
 
 *This project is still in development
 
