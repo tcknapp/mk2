@@ -12,6 +12,8 @@ metroKnome was created for Musical Artists, Visionaries, and Hobbyists of varyin
   
 This is a productivity app to help users stay dedicated to their musical endeavors.
 
+- - -
+
 ## Technologies used
 
 * MERN Stack-
@@ -23,7 +25,7 @@ This is a productivity app to help users stay dedicated to their musical endeavo
     babel, docker, eslint, feathers, graphjs, scss
     
     
-    
+    <br />
 
-**This project is still in development**
+**(This project is still in development)**
 
